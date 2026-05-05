@@ -140,3 +140,5 @@ vite.config.ts.timestamp-*
 
 ca.pem
 .DS_Store
+
+Readme.md
